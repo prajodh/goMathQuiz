@@ -7,9 +7,6 @@ This is a simple command-line quiz application written in Go. The quiz questions
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [CSV File Format](#csv-file-format)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
